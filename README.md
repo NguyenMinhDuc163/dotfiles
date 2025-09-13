@@ -1,4 +1,4 @@
-# Dotfiles với Bare Repo
+# Dotfiles with Bare Repo
 
 ```bash
 ## Khởi tạo trên máy cũ
